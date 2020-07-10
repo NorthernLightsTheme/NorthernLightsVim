@@ -28,6 +28,3 @@ then set the colorscheme:
 ```
 colorscheme northernlights
 ```
-
-### Having problems/suggestions? Join [The discord server](https://discord.gg/6eMxyHT)!
-
