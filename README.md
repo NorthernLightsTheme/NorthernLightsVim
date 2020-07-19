@@ -14,13 +14,13 @@ Use your plugin manager.
 For Vundle:
 
 ```
-Plugin 'eskilop/NorthernLights.vim'
+Plugin 'NorthernLightsTheme/NorthernLightsVim'
 ```
 
 For vim-plug:
 
 ```
-Plug 'eskilop/NorthernLights.vim'
+Plug 'NorthernLightsTheme/NorthernLightsVim'
 ```
 
 then set the colorscheme:
